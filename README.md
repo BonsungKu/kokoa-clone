@@ -1,3 +1,3 @@
 #Kokoa-Clone
 
-Temporary Update.
+Temporary Update. Ver.1.0.1
